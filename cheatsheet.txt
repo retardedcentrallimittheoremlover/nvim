@@ -1,0 +1,63 @@
+📂 Navigatie & Bestanden
+
+    <Space> e - Open/Sluit de mappenlijst (Nvim-Tree)
+
+    <Space> f - Focus cursor op de mappenlijst
+
+    <Space> ff - Zoek bestand op naam (Telescope)
+
+    <Space> fg - Zoek tekst in alle bestanden (Live Grep)
+
+    <Space> fb - Lijst van openstaande bestanden (Buffers)
+
+    Ctrl + w + h/j/k/l - Wissel tussen vensters (Links/Onder/Boven/Rechts)
+
+🦀 Rust Development
+
+    <Space> t - RUN TESTS (Cruciaal voor de 100-oefeningen)
+
+    <Space> r - Cargo Run (Hele project draaien)
+
+    K - Documentatie bekijken onder cursor (LSP Hover)
+
+    gd - Go to Definition (Spring naar broncode van functie)
+
+    gl - Zwevende error melding bekijken (Line Diagnostics)
+
+    <Space> ca - Code Actions (Auto-fix suggesties van Rust)
+
+    <Space> rn - Rename (Hernoem variabele in het hele bestand)
+
+🛠️ Plugins & Extra's
+
+    <Space> u - Undotree (Tijdlijn van al je wijzigingen)
+
+    Ctrl + e - Harpoon Menu (Snellijst van bestanden)
+
+    Ctrl + h/j/k/l - Harpoon Switch (Snel naar bestand 1, 2, 3 of 4)
+
+    <Space> d - Doge (Genereer documentatie commentaar)
+
+    :Git - Open Git interface (Fugitive)
+
+⌨️ Essentiële Vim "Moves" (Geen Leader)
+
+    % - Spring tussen { }, [ ] of ( ) (Onmisbaar in Rust!)
+
+    * - Zoek naar woord onder cursor in dit bestand
+
+    o - Nieuwe regel eronder invoegen en typen
+
+    u - Ongedaan maken (Undo)
+
+    Ctrl + r - Opnieuw uitvoeren (Redo)
+
+    :w - Opslaan (Triggered ook je LSP checks/kruisjes)
+
+🖥️ Terminal (In de split na <Space>t)
+
+    <Esc> - (Als je mijn keybind hebt toegevoegd) Verlaat typ-modus
+
+    Ctrl + h - Sluit terminal/ga terug naar code (Afhankelijk van je keuze)
+
+    :q - Sluit het terminal venster
